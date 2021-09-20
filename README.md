@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hellovaibhav
 - 👀 I’m interested in HTML,C,Java and Kotlin
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on html
 - 📫 I am currently unavailable
 
 <!---
