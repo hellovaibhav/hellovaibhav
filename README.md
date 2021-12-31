@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hellovaibhav
-- 👀 I’m interested in HTML,C,Java and Kotlin
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m Vaibhav
+- 👀 I’m interested in C,Java,Python and Kotlin
+- 🌱 I’m currently learning java
 - 📫 I am a student at IIIT Ranchi
 
 <!---
