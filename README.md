@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaibhav
-- 👀 I’m interested in C,Java,Python and Kotlin
-- 🌱 I’m currently learning algo
+- 👀 I’m interested in Web and android devlopment.
+- 🌱 I’m currently learning c.
 - 📫 I am a student at IIIT Ranchi
 
 <!---
