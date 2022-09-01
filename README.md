@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Vaibhav
-- 👀 I’m interested in Web and android devlopment.
-- 🌱 I’m currently learning c.
-- 📫 I am a student at IIIT Ranchi
+- 👋 Hi, I’m Vaibhav .
+- 👀 I’m interested in Competitive Programming .
+- 🌱 I’m currently learning python.
+- 📓 I know about C , C++ , HTML and CSS.
+- 📫 I am a sophomore at IIIT Ranchi .
 
 <!---
 hellovaibhav/hellovaibhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
