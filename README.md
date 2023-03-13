@@ -18,7 +18,7 @@
 <br>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently mastering **JS**
 
 - 🏫 I’m currently studying at **Indian Institute of Information Technology, Ranchi**
 
