@@ -22,7 +22,7 @@
 
 - 🏫 I’m currently studying at **Indian Institute of Information Technology, Ranchi**
 
-- 📫 How to reach me **vaibhav.iiitranchi@gmail.com**
+- 📫 How to reach me **vaibhav.21ug2023@iiitranchi.ac.in**
 
 - ⚡ Fun fact **I also love playing Football.**
 <br><br>
