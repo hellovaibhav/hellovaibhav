@@ -4,12 +4,6 @@
 <br>
 <p >
 
-<a href="https://twitter.com/vbhv_vrma" target="blank">
-
-<img align="left" src="https://img.shields.io/twitter/follow/vbhv_vrma?logo=twitter&style=plastic&color=blue&label=@vbhv_vrma" alt="follow me on twitter" />
-
-</a>
-
 <img align="right" src="https://komarev.com/ghpvc/?username=hellovaibhav&label=Profile%20views&color=0e75b6&style=plastic&label=Visitors" alt="hellovaibhav" />
 
 </p>
