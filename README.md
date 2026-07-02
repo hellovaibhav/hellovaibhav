@@ -14,7 +14,9 @@
 
 - 🌱 I’m currently mastering **JS**
 
-- 🏫 I’m currently studying at **Indian Institute of Information Technology, Ranchi**
+- ⚡️ I am currently Writing and Optimizing Backend Code. 
+
+- 🏫 I have graduated from **Indian Institute of Information Technology, Ranchi**
 
 - 📫 How to reach me **vaibhav.21ug2023@iiitranchi.ac.in**
 
